@@ -35,3 +35,30 @@
 .custom-bg-col {
   background-color: rgba(45, 105, 194, 0.24);
 }
+
+.icon-cart{
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.icon-cart span{
+  width: 20px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  top: 55%;
+  right: 15px;
+}
+
+.quantity{
+  margin-top: 10px;
+}
+
+.totalPrice{
+  margin-top: 10px;
+}

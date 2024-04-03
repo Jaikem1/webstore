@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   </div>
                   <div class="d-flex flex-column card-body product-button">
                     <p class="card-text">$${product.price}</p>
-                    <button class="btn btn-primary btn-order">Beställ</button>
+                    <button class="btn btn-primary btn-order">Lägg i varukorg</button>
                   </div>
                 </div>
             `;
